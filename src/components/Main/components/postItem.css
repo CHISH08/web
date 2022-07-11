@@ -1,0 +1,27 @@
+.post {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.deleteBtn svg {
+    font-size: 40px;
+}
+
+.editBtn svg {
+    font-size: 33px;
+}
+
+.postControl {
+    display: flex;
+    text-align: center;
+}
+
+.postControl button {
+    padding: 0;
+}
+
+
+.likeDiv {
+    display: flex;
+    align-items: center;
+}
